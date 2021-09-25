@@ -65,7 +65,7 @@ section{
     
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .half-2ndwidth{
     width: 35%;
@@ -78,4 +78,12 @@ section{
     background-image: url("../images/dream-bg.png");
     background-repeat: no-repeat;
     background-position:right ;
+}
+
+.single-experience{
+    width: 35%;
+    float: left;
+    padding: 5%;
+    box-shadow: 10px 10px 40px olive;
+
 }
