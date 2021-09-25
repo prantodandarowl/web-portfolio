@@ -68,8 +68,14 @@ section{
     width: 100%;
 }
 .half-2ndwidth{
-    width: 40%;
+    width: 35%;
     float: left;
     padding: 5%;
 
+}
+
+.bottom-banner{
+    background-image: url("../images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:right ;
 }
