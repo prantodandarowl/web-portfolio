@@ -6,6 +6,21 @@ h1{
     font-size: 45px;
 }
 
-span{
-    color: rgb(194, 152, 63);
+.name-highlight{
+    color: orange;
+}
+
+.p-large{
+    font-size: 30px;
+    color: orangered;
+}
+.half-weidth{
+    width: 40%;
+    float: left;
+    padding: 5%;
+    
+}
+
+.half-weidth img{
+    width: 100%;
 }
